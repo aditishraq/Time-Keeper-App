@@ -43,7 +43,7 @@ A simple, clean desktop application for tracking time sessions with real-time mo
 
 #### Clone and Build
 ```bash
-git clone https://github.com/yourusername/timekeeper-app.git
+git clone https://github.com/aditishraq/Time-Keeper-App.git
 cd timekeeper-app
 dotnet build
 dotnet run
