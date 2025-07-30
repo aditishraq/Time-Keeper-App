@@ -2,7 +2,8 @@
 
 A simple, clean desktop application for tracking time sessions with real-time monitoring and Excel export functionality.
 
-![Time Keeper App](https://github.com/aditishraq/Time-Keeper-App/blob/main/main_page.png)
+<img src="https://github.com/aditishraq/Time-Keeper-App/blob/main/main_page.png" width="600" alt="Time Keeper App Screenshot">
+
 
 ## Features
 
