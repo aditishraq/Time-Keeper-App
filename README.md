@@ -68,7 +68,7 @@ TimekeeperApp/
 ├── Program.cs           # Application entry point
 ├── TimekeeperApp.csproj # Project configuration
 ├── favicon.ico          # Application icon
-└── README.md           # This file
+└── README.md           
 ```
 
 
